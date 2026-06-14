@@ -16,6 +16,7 @@ import SavedTemplates from './pages/SavedTemplates';
 import DomainManager from './pages/DomainManager';
 import WebsiteCloner from './pages/WebsiteCloner';
 import __Layout from './Layout.jsx';
+import Login from './pages/Login';
 
 
 export const PAGES = {
@@ -36,6 +37,7 @@ export const PAGES = {
     "SavedTemplates": SavedTemplates,
     "DomainManager": DomainManager,
     "WebsiteCloner": WebsiteCloner,
+    "Login": Login,
 }
 
 export const pagesConfig = {
